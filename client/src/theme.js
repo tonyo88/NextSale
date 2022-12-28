@@ -44,9 +44,9 @@ export const theme = createTheme({
       main: shades.secondary[500],
     },
     neutral: {
-      dark: shades.neurtal[700],
-      main: shades.neurtal[500],
-      light: shades.neurtal[100],
+      dark: shades.neutral[700],
+      main: shades.neutral[500],
+      light: shades.neutral[100],
     },
   },
   typography: {
